@@ -8,7 +8,7 @@ import google.generativeai as genai
 import warnings
 warnings.filterwarnings("ignore")
 #Gemini configuration
-gemini_api_key = "AIzaSyCdMEDGRTlN7_camesAFg6z0ygRK5fCHvs"
+gemini_api_key = "Your Gemini Key"
 genai.configure(api_key=gemini_api_key)
 safety_settings = [
     {
@@ -33,7 +33,7 @@ safety_settings = [
     },
 ]
 #CRAG
-Internal_knowledge_base = "C:/Users/Prasann/Downloads/lemh201 (2).pdf"
+Internal_knowledge_base = "lemh201.pdf"
 def get_doc(question):
     """
     Retrieves the relevant document page content based on the given question.
