@@ -1,0 +1,7 @@
+langchain
+pypdf
+tiktoken
+gpt4all
+chromadb
+googlesearch-python
+google-generativeai
