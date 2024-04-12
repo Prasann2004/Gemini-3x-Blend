@@ -2,7 +2,7 @@ from Gemini_3x_blend import Gemini_3x_blend
 import streamlit as st
 st.title("Gemini 3x Blend")
 
-user_quest = st.text_input("Ask a technical question:")
+user_quest = st.text_input("Ask a question:")
 btn = st.button("Ask")
 
 if btn and user_quest:
