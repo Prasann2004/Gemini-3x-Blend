@@ -15,3 +15,5 @@ LLM-Blender is a novel framework designed to enhance the performance of large la
  ![(794) Build SELF-DISCOVER from Scratch with LlamaIndex - YouTube - Google Chrome 03-03-2024 23_18_20](https://github.com/Prasann2004/SELF-DISCOVER-Implementation/assets/83667133/c12aa649-99b9-4fde-879a-1dbcd7ec3fe4)
  SELF-DISCOVER tries to employ a method which we all use in day to day baisis to solve complex problems .That is to break problems into subparts and solve it step by step .
 
+ # Hugging face link if you want to try it : https://huggingface.co/spaces/Prasann15479/Gemini-3x-Blend
+
