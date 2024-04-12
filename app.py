@@ -1,4 +1,4 @@
-from Gemini_3x_bend.Gemini_3x_blend import Gemini_3x_blend     
+from Gemini_3x_blend import Gemini_3x_blend     
 import streamlit as st
 st.title("Gemini 3x Blend")
 
